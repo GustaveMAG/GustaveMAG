@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Gustave+👋" alt="Typing SVG" />
 
-### *Big Data Engineering Student*
+## **Big Data Engineering Student**
 
 <a href="https://github.com/GustaveMAG">
   <img src="https://img.shields.io/badge/Focus-Big%20Data%20%26%20Cloud-0078D4?style=for-the-badge&logo=azure&logoColor=white" />
