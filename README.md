@@ -7,7 +7,7 @@
 *Engineering robust data pipelines for the future of Finance & Healthcare.*
 
 <a href="https://github.com/GustaveMAG">
-  <img src="https://img.shields.io/badge/Focus-Big%20Data%20Engineering-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Big%20Data%20%26%20Cloud-blue?style=for-the-badge&logo=python&logoColor=white" />
 </a>
 <a href="https://github.com/GustaveMAG">
   <img src="https://img.shields.io/badge/Target%20Sectors-Finance%20%26%20Healthcare-success?style=for-the-badge&logo=medapps&logoColor=white" />
@@ -27,24 +27,25 @@ I am particularly driven by high-impact sectors where precision matters:
 * **🏥 Healthcare (HealthTech):** Leveraging data to improve patient outcomes, optimize hospital workflows, and support medical research.
 * **📈 Finance (FinTech):** Building automated analytical tools to understand market trends, manage risk, and visualize complex financial flows.
 
-I believe that **Data Engineering** is not just about writing code; it's about architecture, reliability, and extracting truth from noise. I am constantly looking for opportunities to apply my skills in challenging environments.
+I believe that **Data Engineering** is not just about writing code; it's about architecture, cloud infrastructure, and extracting truth from noise.
 
-* 🔭 **Currently working on:** Advanced EDA (Exploratory Data Analysis) pipelines and Python automation tools.
-* 🧠 **Deepening my knowledge in:** Data warehousing, predictive modeling, and system optimization.
-* ⚡ **Core Values:** Clean Code, Reproducibility, and Data Ethics.
+* 🔭 **Currently working on:** Cloud-based data pipelines (Azure) and automation tools.
+* 🧠 **Deepening my knowledge in:** Infrastructure as Code (Terraform) and Predictive Modeling.
+* 🗣️ **Languages:** 🇫🇷 French (Native) | 🇬🇧 English (Fluent) | 🇪🇸 Spanish (Intermediate B1)
 
 ---
 
 ### 🛠️ **Technical Arsenal**
 
-I utilize a comprehensive stack of tools to wrangle, analyze, and visualize data:
+I utilize a comprehensive stack of tools to wrangle data, manage cloud infrastructure, and build dashboards:
 
-| **Core Processing & Big Data** | **Visualization & UI** | **Dev Tools & Environment** |
+| **Big Data & Processing** | **Business Intelligence & UI** | **Cloud & Dev Tools** |
 | :--- | :--- | :--- |
-| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) **Python 3.10+** | ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=python&logoColor=white) **Matplotlib** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) **Git & GitHub** |
-| ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) **Pandas** | ![Seaborn](https://img.shields.io/badge/-Seaborn-77ACF1?style=flat-square&logo=python&logoColor=white) **Seaborn** | ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) **VS Code** |
-| ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) **NumPy** | ![Flet](https://img.shields.io/badge/-Flet-purple?style=flat-square&logo=flutter&logoColor=white) **Flet (App UI)** | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) **Jupyter Lab** |
-| ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) **SQL / Postgre** | ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) **Plotly** | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) **Bash / Shell** |
+| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) **Python 3.10+** | ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black) **Power BI** | ![Azure](https://img.shields.io/badge/-Azure_Cloud-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) **Azure Cloud** |
+| ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) **Pandas** | ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) **Excel (Advanced)** | ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) **Terraform** |
+| ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) **NumPy** | ![Flet](https://img.shields.io/badge/-Flet-purple?style=flat-square&logo=flutter&logoColor=white) **Flet (App UI)** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) **Git & GitHub** |
+| ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) **SQL / Postgre** | ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=python&logoColor=white) **Matplotlib** | ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) **VS Code** |
+| ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) **Notebooks** | | |
 
 ---
 
