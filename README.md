@@ -11,7 +11,7 @@
 
 ---
 
-### 👨‍💻 **About Me**
+### **About Me**
 
 I'm a Big Data engineering student. I like building data pipelines and the cloud infrastructure that runs them, and I'm aiming for a career in **cloud data engineering**.
 
@@ -22,7 +22,7 @@ I'm a Big Data engineering student. I like building data pipelines and the cloud
 
 ---
 
-### 🛠️ **Technical Arsenal**
+### **Technical Stack**
 
 #### **🔹 Cloud & Infrastructure**
 
@@ -46,7 +46,7 @@ I'm a Big Data engineering student. I like building data pipelines and the cloud
 
 ---
 
-### 📊 **GitHub Analytics**
+### **GitHub Analytics**
 
 <div align="center">
 
