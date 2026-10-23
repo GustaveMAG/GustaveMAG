@@ -1,90 +1,56 @@
+# Gustave de Magondeau
 
-<div align="center">
+**Data Engineering student | Cloud & Big Data**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Gustave+👋" alt="Typing SVG" />
+I design and build data pipelines, with a focus on cloud infrastructure (Azure) and reproducible deployments. I'm currently seeking a **[internship / work-study / junior position]** in cloud data engineering, starting **[month year]**.
 
-## **Big Data Engineering Student**
-
-<a href="https://github.com/GustaveMAG">
-  <img src="https://img.shields.io/badge/Focus-Big%20Data%20%26%20Cloud-0078D4?style=for-the-badge&logo=azure&logoColor=white" />
-</a>
-<a href="https://github.com/GustaveMAG">
-  <img src="https://img.shields.io/badge/Target-Finance%20%26%20Healthcare-217346?style=for-the-badge&logo=medapps&logoColor=white" />
-</a>
-
-<br/>
-<br/>
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/gustave-de-magondeau/) · France · Open to relocation: [yes / no]
 
 ---
 
-### 👨‍💻 **About Me**
+## Focus areas
 
-I am a developer and student currently specializing in **Big Data Technologies**, combining strong academic foundations with practical engineering skills. My professional ambition is to bridge the gap between massive, raw information and critical decision-making processes.
+- **Data pipelines**: ingestion from APIs and files, transformation, loading into relational storage
+- **Cloud infrastructure**: Azure services, infrastructure as code with Terraform
+- **Orchestration & packaging**: Airflow, Docker
 
-**I focus on high-impact sectors where precision matters:**
+## Technical skills
 
-> **🏥 Healthcare (HealthTech)**
-> Leveraging data to improve patient outcomes, optimize workflows, and support medical research.
+| Category | Tools |
+|---|---|
+| Languages | Python, SQL |
+| Databases | PostgreSQL |
+| Cloud & IaC | Azure, Terraform |
+| Containers & orchestration | Docker, Airflow |
+| Data processing | Pandas, NumPy, Jupyter |
+| Visualization | Power BI, Matplotlib |
+| Version control | Git, GitHub |
 
-> **📈 Finance (FinTech)**
-> Building automated analytical tools to understand market trends, manage risk, and visualize flows.
+*Keep only the tools you can discuss in an interview.*
 
-* 🔭 **Currently working on:** Cloud-based data pipelines (**Azure**) and automation tools.
-* 🧠 **Deepening my knowledge in:** Infrastructure as Code (**Terraform**) and Predictive Modeling.
-* 🗣️ **Languages:** 🇫🇷 French (Native) | 🇬🇧 English (Fluent) | 🇪🇸 Spanish (Intermediate B1)
+## Selected projects
 
----
+### [Vienna Vibe](https://github.com/GustaveMAG/vienna-vibe)
+Desktop application that retrieves live weather data from the Open-Meteo API and generates a matching Spotify playlist.
 
-### 🛠️ **Technical Arsenal**
+- **Stack:** Python, Flet, Spotify Web API, Open-Meteo
+- **Highlights:** REST API integration, OAuth authentication, modular architecture (7 modules), configuration through environment variables
 
-<div align="center">
+### [Project 2: data pipeline]
+*In progress.* API ingestion into PostgreSQL, containerized with Docker and scheduled with Airflow.
 
-<h4><b>🔹 Data Engineering & Cloud Infrastructure</b></h4>
+- **Stack:** Python, PostgreSQL, Docker, Airflow
 
-![Python](https://img.shields.io/badge/Python_3.10+-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL_/_PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure_Cloud-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![Git](https://img.shields.io/badge/Git_&_GitHub-F05032?style=flat&logo=git&logoColor=white)
+### [Project 3: cloud infrastructure]
+*Planned.* Azure resources provisioned with Terraform (storage and data services), fully reproducible from the repository.
 
-<h4><b>🔹 Data Science & Processing</b></h4>
+- **Stack:** Azure, Terraform
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter_Notebooks-F37626?style=flat&logo=jupyter&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel_(Advanced)-217346?style=flat&logo=microsoft-excel&logoColor=white)
+## Education and languages
 
-<h4><b>🔹 Visualization, UI & Design</b></h4>
+- [Degree, school, years]
+- French (native) · English (fluent) · Spanish (B1)
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
-![Mermaid](https://img.shields.io/badge/Mermaid_JS-FF3860?style=flat&logo=mermaid&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white)
-![Flet](https://img.shields.io/badge/Flet_(App_UI)-8A2BE2?style=flat&logo=flutter&logoColor=white)
+## Contact
 
-</div>
-
----
-
-### 📊 **GitHub Analytics**
-
-<div align="center">
-<br/>
-
-<a href="https://github.com/GustaveMAG">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GustaveMAG&show_icons=true&theme=transparent&hide_border=false&title_color=0078D4&text_color=9f9f9f&icon_color=0078D4&count_private=true" />
-</a>
-<a href="https://github.com/GustaveMAG">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustaveMAG&layout=compact&theme=transparent&hide_border=false&title_color=0078D4&text_color=9f9f9f&langs_count=6" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-  <br/>
-  <p><i>"Data is the new oil, but only if you know how to refine it."</i></p>
-  <br/>
-</div>
+LinkedIn: [gustave-de-magondeau](https://www.linkedin.com/in/gustave-de-magondeau/)
